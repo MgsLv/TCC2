@@ -1,2 +1,15 @@
-# TCC2
-Todos os códigos do nosso trabalho de TCC.
+# DailyAyu
+
+Códigos referentes ao DailyAyu, projeto de Trabalho de Conclusao de Curso da Etec Uirapuru
+
+filetree:
+...
+
+descricao do projeto:
+...
+
+funcionalidades:
+...
+
+instalacao:
+...
